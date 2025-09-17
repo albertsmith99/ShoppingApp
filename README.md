@@ -10,4 +10,4 @@ En simpel indkøbsliste-app bygget i React Native (Expo).
 - Styling i separat fil (`styles.js`)
 
 ## Demo
-📹 [Link til video-demo](HER_INDSÆT_LINK)
+[Link til video-demo] https://youtube.com/shorts/PGXnlpyLXbI?si=ycvGlNS2Bw0UlK7K
